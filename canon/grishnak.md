@@ -99,15 +99,37 @@ nobody has to rewrite a line.
 - **The Lamplighter** tends or seeks a light in every world and asks whether it still
   remembers the sea. Whatever the Lamplighter is doing, it is the opposite of this.
   *The light remembers what the world forgets* reads as a description of the countermeasure.
-- **The Hollow King** is "a mourning given shape," warded asleep beneath a valley. Same
-  family, different scale: he is one grief personified. Grishnak is the ambient weather,
-  and it is not asleep.
+- **The Keepers** were the scholar-mage order who warded the Hollow King beneath a valley
+  and built an archive to remember why. **You ward a forgetting by building a library.**
+- **The Ward-Stone** is the seal on that sleep. *The light remembers what the world
+  forgets* stops being atmosphere and reads as an operating manual.
 - **The Forgetting Light** — a lighthouse whose keeper is slowly forgetting the sea — is
   the thread and the entity standing in the same room. Handle with care.
+
+### Spoiler, and it is a large one
+
+*(This repository carries a spoiler warning at the top for exactly this reason. If you are
+here to play rather than to build, stop reading.)*
+
+**Grishnak is the Hollow King.** Not a relative — the same thing under two names.
+
+The Hollow King is "a mourning given shape, put to sleep so it would stop trying to
+remember what it lost." **A mourning given shape and a forgetting given shape are the same
+object seen from either side.** One is the thing losing; the other is the loss.
+
+The Keepers, who studied it, called it the Hollow King. That name is speakable and appears
+in shipped games. The name the valley used is *Grishnak*, and the meaning is gone — which
+is exactly what the local word for this ought to do.
+
+**The rule this creates:** you may use either name. **No game may state that they are the
+same.** It is only ever arranged and left for the player to assemble, ideally long after
+they think the story is over.
 
 ### What it is not
 
 - **Not a final boss with a health bar.** You do not fight it. It is not a creature.
+- **Not awake.** It was warded asleep and it still is. What a place suffers is a sleeping
+  thing's overflow, not its attention.
 - **Not summoned, bargained with, or banished.**
 - **Not the reason your villain is evil.** If your game has a warlord, the interesting
   version is that the place was *already* being forgotten — which is why nobody came when
