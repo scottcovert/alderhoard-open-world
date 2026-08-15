@@ -22,6 +22,7 @@ to sci-fi to small-town horror — but the universe itself is wholly original.
 | File | What it is |
 |---|---|
 | [canon/spindle-world-guide.txt](canon/spindle-world-guide.txt) | The world guide. Cosmology, the five threads, open canon, the rules. **Read this first.** |
+| [canon/the-lens.md](canon/the-lens.md) | **The most useful page here if you are building.** One reality, perceived through your setting's own lens. Why your version is allowed to look nothing like anyone else's. |
 | [canon/grishnak.md](canon/grishnak.md) | GRISHNAK — a thing with no body, only a signature. Nine points, one rule. |
 | [CONTRIBUTING.md](CONTRIBUTING.md) | How to add a game, or propose something new to canon. |
 | [games/](games/) | Games built in this universe. |
@@ -43,6 +44,13 @@ to sci-fi to small-town horror — but the universe itself is wholly original.
 Your game must stand completely on its own. The threads are seasoning. A player who has
 never heard of the Spindle should finish your game without noticing anything was odd —
 and a player who has should finish it with the back of their neck prickling.
+
+**Your version is supposed to look different from everyone else's.** A yokai story, a
+Nordic-runes story, an abduction story in a Nevada trailer park and a corporate-horror FPS
+can all be correct and all be the same story, because every account of this reality is
+shaped by whoever had the experience. That is not a loophole, it is the setting's central
+idea — see [the lens](canon/the-lens.md). Contradictions between games are two witnesses,
+not a continuity error, and nobody is going to ask you to reconcile them.
 
 ### With an AI assistant
 
