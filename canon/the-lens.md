@@ -66,6 +66,56 @@ This is the only rule you need in order to build here without asking permission:
 
 > **Render it in your world's own vocabulary. Never explain why it looks different.**
 
+## Four hard consequences
+
+The lens is not just an attitude; it forbids things. These four rules do most of the work
+of keeping this setting out of the clichés it would otherwise fall into.
+
+### 1. There are no ships, and no pilots
+
+**Nothing in this setting is ever actually a craft.** Not secretly, not eventually, not in
+the last chapter. What a witness reports is what their era can supply: an airship in 1897,
+a flying disc in 1947, a black triangle in the nineties, a drone now, a chariot of fire
+before any of it. **The vehicle is a costume the perceiver puts on the encounter.**
+
+This closes off the single most exhausted move available — the reveal that they were
+aliens from somewhere. Nobody is from anywhere. It also means you can write the close
+encounter your setting deserves, in full detail, and be canon-correct.
+
+### 2. The absurd detail is the signature, not the comic relief
+
+Real accounts are full of trivial nonsense: the visitor who wants a glass of water, the
+being that offers the witness food, the craft that lands to be repaired. That absurdity is
+not noise and it is not a reason to disbelieve the witness. **In this setting it is the
+mark of the real thing**, and a phenomenon that wanted to remain deniable could not do
+better than to arrive ridiculous.
+
+So: **if your encounter makes perfect sense, you have written it wrong.** Put one detail in
+that no author would choose. That detail is the ninth point in narrative form — the one
+that does not fit, and the one that proves the rest.
+
+### 3. No conclusive evidence, ever
+
+Photographs come out wrong. The recording has a gap exactly where it mattered. The witness
+is sincere and unreliable and slightly off about the date. The object is gone before anyone
+credible arrives.
+
+This is not authorial cowardice, it is the phenomenon's own defence, and it is what keeps
+the guide's central rule enforceable in practice. **A game that produces proof has ended
+the setting for everyone.**
+
+### 4. Write the witnesses, not the thing
+
+The interesting material is the effect on people and on cultures over long spans — what
+they build afterwards, what they forbid, what they carve, what they refuse to talk about.
+Point the camera at the aftermath.
+
+There is also a reading, permitted but never stated, in which the phenomenon is not
+passive at all: that it functions as a **regulator on belief**, shaping what a civilisation
+is able to think over millennia, and that its unbelievability is the mechanism rather than
+a side effect. If you use this, use it the way everything else is used here — as the shape
+of events, never as a line of dialogue.
+
 ## What is NOT permitted
 
 - **Do not put this page in a game.** Nobody in any story knows this. No character
