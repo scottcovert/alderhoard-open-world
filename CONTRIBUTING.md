@@ -74,16 +74,21 @@ Rule 5 is the one people break. It is also the one holding everything up.
 
 ---
 
-## Things that are not open canon
+## Reserved canon
 
-Some material in this universe is deliberately held back — unreleased threads that would
-lose their effect if they were spent early, or explained before their game exists.
+Six things in this universe are **reserved**: real, canon, and sealed. They are named in
+the world guide's RESERVED CANON section precisely so you know they exist and nobody
+invents a contradiction by accident — but their design documents are private, and using
+one in your game needs per-game permission.
 
-**If it is not in this repository, it is not open canon**, even if you have seen it
-referenced somewhere. Do not reverse-engineer held-back material from a game and publish
-it here.
+**To use one:** email scott@scovert.com with a one-paragraph pitch. Some are
+one-game-ever items, so expect a real answer either way rather than a rubber stamp.
 
-Anything in `canon/` is yours to use.
+**Do not invent your own explanations for those names**, and do not publish a theory
+about them here. If your game wants an unexplained piece of deep structure, invent a new
+one — that is more fun anyway, and you can submit it to canon using the process above.
+
+Everything else in `canon/` is yours to use with no permission and no notice.
 
 ---
 
