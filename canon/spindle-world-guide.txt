@@ -1,0 +1,257 @@
+THE SPINDLE — A SHARED UNIVERSE FOR TEXT ADVENTURES
+World Guide v1.0 — August 2026
+Home: https://scovert.com/spindle.html
+The games: https://scovert.com/infocom.html
+Curator: Scott Covert — scott@scovert.com
+
+------------------------------------------------------------
+
+SPOILER WARNING. This document explains mysteries the games
+deliberately never explain. If you'd rather feel the floor
+tilt on your own, close this and go play first.
+
+------------------------------------------------------------
+WHAT THIS IS
+------------------------------------------------------------
+
+A free-to-use shared mythology for text adventure games.
+
+Every game set here is a self-contained story — but none of
+them are truly separate worlds. They are rooms in one
+enormous turning house called the Spindle, and the doors
+between them are older than any single world. A player who
+plays one game gets a complete tale. A player who plays
+several starts noticing the same threads surfacing across
+wildly different genres: the same wanderer, the same phrase,
+the same small grey object, the same number.
+
+Nothing is ever explained. That is the point.
+
+(The method is Stephen King's shared-multiverse trick — the
+Dark Tower quietly connecting swords-and-sorcery to sci-fi to
+small-town horror — but the universe itself is wholly
+original.)
+
+You are invited to build your own text game inside it.
+
+------------------------------------------------------------
+HOW TO USE THIS GUIDE
+------------------------------------------------------------
+
+WITH AN AI ASSISTANT: paste this entire file into your AI of
+choice and say something like — "Design a text adventure set
+in THE SPINDLE universe described above. Genre: [yours].
+Follow the rules section exactly: weave in 2-3 threads,
+genre-translated, never explained."
+
+BY HAND: read the threads, pick 2-3, translate them into your
+game's genre and era, and drop them in as atmosphere. A
+hooded pilgrim in a fantasy world is a drifting maintenance
+tech in a sci-fi one. Same coat. Same limp.
+
+Either way, the rules at the bottom are what keep this one
+universe instead of a pile of references. They are short.
+Honor them.
+
+------------------------------------------------------------
+THE COSMOLOGY (the frame under everything)
+------------------------------------------------------------
+
+All worlds hang from THE SPINDLE — a structure like a tower
+turned inside out. Its rooms are worlds. Its doors are older
+than any of them.
+
+THE TURNING is the slow rotation that carries souls and
+objects between rooms. When something is forgotten in one
+world, a light dims somewhere in another.
+
+No character understands this. No game states it. It is the
+physics behind the wallpaper.
+
+------------------------------------------------------------
+THE FIVE THREADS (free to use — pick 2 or 3, never all five)
+------------------------------------------------------------
+
+1. THE LAMPLIGHTER
+   A traveler who appears once in every world, always tending
+   or seeking a light, always out of place by exactly one
+   era. Recognizable by a long coat the color of wet ash and
+   a limp on the left side. Never the villain; never quite
+   the ally. Carries a small unlit lantern that is never
+   explained.
+   - Fantasy: a hooded lamplighter or pilgrim.
+   - Sci-fi: a maintenance drifter who keeps the beacons lit.
+   - Modern/horror: a night-shift stranger.
+   Somewhere in the game, they ask: "Does it still remember
+   the sea?" — regardless of whether that world has ever had
+   a sea.
+
+2. THE PHRASE
+   "The light remembers what the world forgets."
+   It surfaces in inscriptions, orientation films, ship
+   graffiti, lullabies. Nobody quotes it twice.
+
+3. THE GREY FEATHER
+   A small grey feather that turns up where no bird could
+   have dropped it — a sealed vault, a starship corridor, a
+   museum case. Takeable, harmless, never required. A
+   returning player learns to look for it.
+
+4. NINE
+   It recurs quietly: nine steps, gate 9, nine years, a clock
+   stopped at nine. Never remarked upon. Never load-bearing.
+
+5. THE DOOR THAT NEVER OPENS
+   Somewhere in each world there is one door that does not
+   belong — older than the building around it, warmer to the
+   touch, faintly humming. It never opens in-game. It is the
+   door to the next room of the Spindle.
+
+The feather and the Door are the two easiest to drop into any
+genre — favor them.
+
+------------------------------------------------------------
+OPEN CANON (use freely — keep these one-liners true)
+------------------------------------------------------------
+
+If your game touches one of these, keep it consistent with
+its one-liner. Everything beyond the one-liner is yours to
+invent, as long as it doesn't contradict.
+
+CORPORATIONS AND FACTIONS
+- HUSK DYNAMICS — Melon Husk's aerospace giant; dismisses
+  engineering concerns as "math anxiety"; once fined for
+  "documentation irregularities." (from STARWARD DRIFT)
+- THE KARMA INITIATIVE — 1970s Pacific-island research
+  collective; geodesic stations, orientation films with
+  missing frames, a computer that wants its code. (from
+  ORIENTATION)
+- THE KEEPERS — vanished scholar-mage order that warded the
+  Hollow King beneath a valley and built an archive to
+  remember why. (from THE SUNKEN ARCHIVE)
+- LOUPE — search/lens giant; campus whimsy over a dark
+  ledger. Its side project, Loupe Recall ("search your own
+  memories — beta"), returns memories that aren't yours.
+  (from VARIANCE)
+
+BEINGS AND VOICES
+- THE HOLLOW KING — not a monster: a mourning given shape,
+  put to sleep so it would stop trying to remember what it
+  lost. (THE SUNKEN ARCHIVE)
+- THE DOCENT — a museum audio-guide spirit living in a beige
+  1987 handset; decades of service; occasionally misremembers
+  which decade it is. (AFTER THE LAST VISITOR)
+- PERI — Waystation Perihelion's nosy station AI;
+  wounded-butler passive-aggression; helpful roughly 60% of
+  the time and proud of it. (STARWARD DRIFT)
+- KARMAC — the Initiative's mainframe; demands a code on a
+  schedule; do not ask it why. (ORIENTATION)
+- THE WATCHERS — Old Kingdom dead who still supervise their
+  own tomb's construction, 3,500 years past the end of their
+  shift. (THE SAND CLOCK)
+
+PLACES
+- ORBITAL WAYSTATION PERIHELION — aging spinning-rim station
+  near the interstellar departure lanes; warranty-void
+  stencils in unlikely places.
+- AST-DK17 — asteroid habitat drilled for "interstellar
+  durability," bound for 0.45c on shielding math nobody has
+  seen.
+- THE SUNKEN ARCHIVE — buried library beneath a valley, older
+  than the conquest above it; the water in its cistern should
+  ripple, and doesn't.
+- THE FORGETTING LIGHT — a lighthouse at the edge of a dream
+  whose keeper is slowly forgetting the sea.
+
+ARTIFACTS
+- THE UTILITY HAT — a hat with a built-in lamp and a
+  long-lasting battery; its ON/OFF status is always somehow
+  relevant; has probably saved more lives than the fleet.
+- THE WARD-STONE — hearth-sized stone veined with a tired
+  pulse of light; the seal on the Hollow King's sleep.
+
+(The grey feather and the Door are canon artifacts too — see
+the threads.)
+
+------------------------------------------------------------
+RESERVED CANON (exists — sealed — ask first)
+------------------------------------------------------------
+
+These have full private design documents and are part of the
+universe's deep structure. They are named here so you know
+they exist, and so nobody invents a contradiction by
+accident. Using one requires per-game permission — email
+scott@scovert.com with a one-paragraph pitch. Some are
+one-game-ever items.
+
+- THE NINE-YEAR KNOCK
+- THE CLOSING SHOP
+- THE CARVERS
+- THE MAINTAINED PLACE
+- THE READING
+- THE VEL (a species)
+
+Do not invent your own explanations for these names. If your
+game needs an unexplained deep-structure phenomenon, invent a
+NEW one — that's more fun anyway, and it can be submitted to
+canon (below).
+
+------------------------------------------------------------
+THE RULES (what keeps it one universe)
+------------------------------------------------------------
+
+1. Your game MUST stand fully on its own — winnable and
+   complete for a player who has never heard of the Spindle.
+   Threads add flavor, never dependencies.
+
+2. Pick 2-3 threads, not all five. Vary which ones, so no two
+   games feel like a checklist.
+
+3. Genre-translate everything. A sci-fi game never literally
+   says "lamplighter" — it uses its own vocabulary while
+   keeping the wet-ash coat, the limp, the unlit lantern, the
+   sea question.
+
+4. NEVER explain the Spindle, the Turning, or the Lamplighter
+   inside a game. No lore-dumps. Whispers only. A first-time
+   player reads them as atmosphere; a returning player feels
+   the floor tilt.
+
+5. Threads never gate a puzzle or block an ending.
+
+6. Keep open-canon one-liners true; don't touch reserved
+   canon without permission.
+
+------------------------------------------------------------
+CONTRIBUTING TO CANON
+------------------------------------------------------------
+
+The universe grows the way it started: games contribute new
+entries as they are built. If your game creates a faction, a
+being, a place, or an artifact you think belongs in the
+shared database, email scott@scovert.com with:
+
+  name / kind / a one-sentence description / your game's title
+
+Accepted entries get added to this guide with your game
+credited as the source — exactly like the entries above.
+
+------------------------------------------------------------
+TERMS (plain English)
+------------------------------------------------------------
+
+- The open canon and the five threads are free to use in your
+  own text adventure games, commercial or not.
+- Include this attribution somewhere reasonable (credits,
+  about page, or docs): "Set in THE SPINDLE — the shared
+  text-adventure universe curated at scovert.com/spindle.html"
+- Don't contradict open-canon one-liners; don't use reserved
+  canon without written permission; don't explain the
+  mysteries.
+- Canon is curated. Being inspired by the universe is free
+  forever; what enters the official database is decided by
+  the curator.
+
+Now go build a room of the house.
+
+The light remembers what the world forgets.
