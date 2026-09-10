@@ -33,7 +33,7 @@ Every addition taxes everyone who comes later. So the test is not "is this cool"
 Good additions tend to:
 
 - **Explain something already there** rather than adding a new thing to explain.
-  (GRISHNAK earns its place by giving the existing `nine` thread a reason, and by putting
+  (AZDARHAD earns its place by giving the existing `nine` thread a reason, and by putting
   a face on the Turning — neither of which required rewriting a word of the guide.)
 - **Work in every genre and every medium.** If it only works in fantasy, it is a good
   idea for your game, not a good addition to canon.
@@ -67,8 +67,10 @@ instead of a pile of references.
    question about the sea.
 4. **The grey feather and the door that never opens are the easiest to drop into any
    genre.** Favour them.
-5. **Never explain the Spindle, the Turning, the Lamplighter, or Grishnak inside a game.**
-   No lore-dumps. Whispers only.
+5. **Never explain the Turning, the Lamplighter, or Azdarhad inside a game.**
+   No lore-dumps. Whispers only. ⚠ And the connective structure itself has no name
+   at present — see the README. Do not invent one and publish it as canon; if you
+   need a word for it in your own game, use your own and keep it yours.
 
 Rule 5 is the one people break. It is also the one holding everything up.
 
@@ -77,9 +79,9 @@ Rule 5 is the one people break. It is also the one holding everything up.
 ## Reserved canon
 
 Six things in this universe are **reserved**: real, canon, and sealed. They are named in
-the world guide's RESERVED CANON section precisely so you know they exist and nobody
-invents a contradiction by accident — but their design documents are private, and using
-one in your game needs per-game permission.
+the RESERVED CANON section of `archive/world-guide-2026-08.txt` precisely so you know they
+exist and nobody invents a contradiction by accident — but their design documents are
+private, and using one in your game needs per-game permission.
 
 **To use one:** email scott@scovert.com with a one-paragraph pitch. Some are
 one-game-ever items, so expect a real answer either way rather than a rubber stamp.

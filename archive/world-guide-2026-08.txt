@@ -1,3 +1,29 @@
+============================================================
+SUPERSEDED - kept for anyone who built against it
+============================================================
+This is the world guide as it stood in August 2026. Two things
+on it are no longer current and one of them is load-bearing:
+
+  * It calls the connective structure THE SPINDLE. There is NO
+    NAME for that structure at present - Scott, 2026-09-10:
+    "let's skip having a name for the universal engine like the
+    spindle or the tower (which is like theft from Stephen
+    King)". The structure is real and unchanged. Only the label
+    is gone, and it is gone on purpose until a better one turns
+    up. Anything on this page that says SPINDLE, read as "the
+    thing that connects these worlds".
+
+  * The entity here called GRISHNAK is called AZDARHAD now.
+    See canon/azdarhad.md - the canon is identical.
+
+Everything else on this page - the threads, the Turning, the
+Lamplighter, the RESERVED CANON list - still stands, and the
+reserved list in particular is the reason this file is kept
+rather than deleted.
+
+Start with canon/world-guide.md instead.
+============================================================
+
 THE SPINDLE — A SHARED UNIVERSE FOR TEXT ADVENTURES
 World Guide v1.0 — August 2026
 Home: https://scovert.com/spindle.html

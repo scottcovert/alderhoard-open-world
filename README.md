@@ -18,9 +18,11 @@ you make. You owe nobody anything, credit included.
 | File | What it is |
 |---|---|
 | [canon/world-guide.md](canon/world-guide.md) | **Read this first.** What Alderhoard is, the register, the build law, the naming laws, the art, the cosmology, and the one structural idea worth stealing. |
+| [canon/azdarhad.md](canon/azdarhad.md) | **AZDARHAD** — a thing with no body, only an arrangement of nine points. Where it shows up, the three channels it reaches a player through, and the one hard rule. |
 | [canon/the-lens.md](canon/the-lens.md) | Why your version is allowed to look nothing like anyone else's. The most useful page here if you are building. |
 | [CONTRIBUTING.md](CONTRIBUTING.md) | How to list a game, or propose something new to canon. |
 | [games/](games/) | Games built in this universe. Add yours with a one-line pull request. |
+| [archive/](archive/) | The August 2026 world guide, superseded but kept — it holds the RESERVED CANON list. |
 
 ---
 
@@ -56,19 +58,35 @@ Paste `canon/world-guide.md` into the assistant of your choice and say:
 
 ---
 
-## ⚠ Pages still carrying older names
+## ⭐ The thing that connects these worlds has no name
 
-Two files here predate the 2026 rename and still use the names this universe was
-published under earlier in the year. Their canon is unchanged and still good —
-the nine-point signature, the threads, the reserved list — but the labels on the
-front of them are being revised:
+All of these places are the same reality, and something connects them. Play one
+game and you notice nothing. Play several and the same wanderer, the same
+phrase, the same small grey object and the same number start surfacing across
+wildly different genres. The doors between these worlds are older than any one
+of them.
 
-- `canon/spindle-world-guide.txt`
-- `canon/grishnak.md`
+**That structure is deliberately unnamed.** It had a name in August 2026 and the
+name has been withdrawn, because a tower with a beam running through it is
+Stephen King's and everything else on the obvious list — thread, spindle, web,
+loom, wheel, lattice — is either tired or already tried and rejected here.
 
-They are left in place rather than quietly deleted, because anyone who already
-built against them should keep finding them where they were. If you are starting
-now, start with `canon/world-guide.md`.
+⚠ **So do not invent one and publish it as canon.** If your own game needs a
+word for it, use your own word and keep it inside your game. That is more
+interesting anyway: **every account of this reality is shaped by whoever had the
+experience**, so of course the name would differ from witness to witness. The
+absence is not a gap waiting to be filled. It is the most honest thing on this
+page.
+
+## ⚠ Two renames, if you built against the earlier pages
+
+- **GRISHNAK is AZDARHAD.** Same being, same nine points, same rule, not one
+  word of canon changed. `canon/grishnak.md` still resolves and points at the
+  new page.
+- **`canon/spindle-world-guide.txt` has moved** to
+  [archive/world-guide-2026-08.txt](archive/world-guide-2026-08.txt) with a
+  banner explaining what on it is still current. It is kept rather than deleted
+  because it holds the RESERVED CANON list, and nothing else does.
 
 ---
 

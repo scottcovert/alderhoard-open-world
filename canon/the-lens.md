@@ -32,7 +32,7 @@ a dead phone, and ninety minutes they cannot account for.
 Same event. Different lens. **Neither witness is lying and neither is right.**
 
 Underneath, the cosmology already published in the world guide holds: worlds hanging from
-the Spindle, the Turning carrying things between rooms, doors older than the buildings
+the Turning carrying things between rooms, doors older than the buildings
 around them. Things are **carried** between worlds — not as debris, and not by accident.
 Seeding, not scattering.
 
@@ -130,8 +130,8 @@ of events, never as a line of dialogue.
 
 ## A worked example
 
-Take GRISHNAK — a place being forgotten, showing as nine points arranged wrong
-(see [grishnak.md](grishnak.md)).
+Take AZDARHAD — a place being forgotten, showing as nine points arranged wrong
+(see [azdarhad.md](azdarhad.md)).
 
 | Your setting | How it presents |
 |---|---|
@@ -141,7 +141,7 @@ Take GRISHNAK — a place being forgotten, showing as nine points arranged wrong
 | Mythic | Nine of the dead who supervise a work that was finished long ago |
 | Comedy | Nine chairs in a waiting room, and a receptionist who cannot say who is waiting |
 
-Every row is Grishnak. Not one of them says so.
+Every row is Azdarhad. Not one of them says so.
 
 ---
 
