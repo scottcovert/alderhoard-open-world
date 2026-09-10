@@ -169,6 +169,30 @@ notice; players who play one cabinet will not, and lose nothing.
 
 Write toward it, never about it.
 
+**It is called AZDARHAD, and that name is for you, not for the player.** It has
+no body — only an arrangement of nine points — so there is nowhere it cannot
+be, and it is not tied to a period, a planet or a genre. Scott, 2026-09-10:
+*"he can show up in different visual, clue or auditory ways in space, moon,
+mars, modern times, main township areas which take place at an unspecified
+time, and even places like prehistoric australia."*
+
+Three channels, and never two at once in the same appearance: the points are
+**visible** in what the place is made of; or they are **a clue** in a record
+somebody kept; or they are **heard** and never seen, with the ninth late or off
+to the side or at the wrong pitch. Two channels together is a nudge, and a nudge
+is a kind of explaining. The full page is `canon/azdarhad.md` in the
+alderhoard-open-world repo.
+
+⭐ **And the thing that connects the worlds has no name, on purpose.** It had
+one and the name was withdrawn — Scott, 2026-09-10: *"let's skip having a name
+for the universal engine like the spindle or the tower (which is like theft from
+Stephen King)."* The structure is real and unchanged; the label is gone until a
+better one turns up, and a candidate has to survive the test in
+`NAMING-THE-STRUCTURE-PROMPT.md`. **Do not invent one in a game.** If a
+character needs a word, let them use a local one and let the next game use a
+different one — every account of this reality is shaped by whoever had the
+experience, so of course the name would differ from witness to witness.
+
 ### The builders who were here first
 
 Some places in the valley were built by something else, a long time before
