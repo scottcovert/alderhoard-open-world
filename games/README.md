@@ -1,4 +1,4 @@
-# Games in the Spindle
+# Games in this universe
 
 Add yours with a one-line pull request. Any genre, any engine, any medium — this list is
 not limited to text games and never was.
@@ -21,11 +21,10 @@ Playable at [scovert.com/infocom.html](https://scovert.com/infocom.html).
 
 | Game | What it is | By |
 |---|---|---|
-| **GRISHNAK** | Top-down valley builder. Chop wood, mine stone, rebuild it all, take it back. Named after something nobody in it ever explains. | Scott Covert |
-| **STONEBREAKER** | Brick-breaker, fifteen walls, inside Grishnak's arcade. | Scott Covert |
+| **ALDERHOARD** | A valley you walk, and the things in it are doors: more than twenty games sharing one map, one save and one story. | Scott Covert |
+| **STONEBREAKER** | Brick-breaker, forty-seven walls, in Alderhoard's arcade. | Scott Covert |
 
-Both live at [scovert.com/grishnak/](https://scovert.com/grishnak/), along with a dozen
-other cabinets.
+Both live at [alderhoard.com](https://alderhoard.com), along with twenty more cabinets.
 
 ---
 

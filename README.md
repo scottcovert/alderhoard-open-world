@@ -1,19 +1,15 @@
-# THE SPINDLE
+# ALDERHOARD OPEN WORLD
 
 **A free-to-use shared universe for games. Any genre, any engine, any era.**
 
-Every game set here is a self-contained story — but none of them are separate worlds.
-They are rooms in one enormous turning house called the Spindle, and the doors between
-them are older than any single world.
+This repository is the **world**. It is not the game.
 
-Play one game and you get a complete tale. Play several and you start noticing the same
-threads surfacing across wildly different genres: the same wanderer, the same phrase, the
-same small grey object, the same number.
+There is no engine here, no cabinet, no level data and no source — on purpose.
+What is here is everything you would need to build something that belongs in
+this universe, and nothing you would need to lift a finished game out of it.
 
-**Nothing is ever explained. That is the point.**
-
-The method is the Stephen King trick — the Dark Tower quietly wiring swords-and-sorcery
-to sci-fi to small-town horror — but the universe itself is wholly original.
+**Licence: CC0.** Public domain. Take it, change it, contradict it, sell what
+you make. You owe nobody anything, credit included.
 
 ---
 
@@ -21,85 +17,67 @@ to sci-fi to small-town horror — but the universe itself is wholly original.
 
 | File | What it is |
 |---|---|
-| [canon/spindle-world-guide.txt](canon/spindle-world-guide.txt) | The world guide. Cosmology, the five threads, open canon, the rules. **Read this first.** |
-| [canon/the-lens.md](canon/the-lens.md) | **The most useful page here if you are building.** One reality, perceived through your setting's own lens. Why your version is allowed to look nothing like anyone else's. |
-| [canon/grishnak.md](canon/grishnak.md) | GRISHNAK — a thing with no body, only a signature. Nine points, one rule. |
-| [CONTRIBUTING.md](CONTRIBUTING.md) | How to add a game, or propose something new to canon. |
-| [games/](games/) | Games built in this universe. |
-
-> **Spoiler warning.** The guide explains mysteries the games deliberately never explain.
-> If you would rather feel the floor tilt on your own, go play something first.
+| [canon/world-guide.md](canon/world-guide.md) | **Read this first.** What Alderhoard is, the register, the build law, the naming laws, the art, the cosmology, and the one structural idea worth stealing. |
+| [canon/the-lens.md](canon/the-lens.md) | Why your version is allowed to look nothing like anyone else's. The most useful page here if you are building. |
+| [CONTRIBUTING.md](CONTRIBUTING.md) | How to list a game, or propose something new to canon. |
+| [games/](games/) | Games built in this universe. Add yours with a one-line pull request. |
 
 ---
 
-## Building something? The whole method in five lines
+## The whole method in five lines
 
 1. Read the world guide.
 2. Pick **two or three** threads. Never all of them.
-3. **Genre-translate** them. A hooded pilgrim in a fantasy world is a drifting maintenance
-   tech in a sci-fi one. Same coat, same limp, same unlit lantern.
+3. **Genre-translate** them. A hooded pilgrim in a fantasy world is a drifting
+   maintenance tech in a sci-fi one. Same coat, same limp, same unlit lantern.
 4. Drop them in as atmosphere. Never as plot, never as a dependency.
 5. **Never explain any of it.**
 
-Your game must stand completely on its own. The threads are seasoning. A player who has
-never heard of the Spindle should finish your game without noticing anything was odd —
-and a player who has should finish it with the back of their neck prickling.
+Your game must stand completely on its own. The threads are seasoning. A player
+who has never heard of any of this should finish your game without noticing
+anything was odd — and a player who has should finish it with the back of their
+neck prickling.
 
-**Your version is supposed to look different from everyone else's.** A yokai story, a
-Nordic-runes story, an abduction story in a Nevada trailer park and a corporate-horror FPS
-can all be correct and all be the same story, because every account of this reality is
-shaped by whoever had the experience. That is not a loophole, it is the setting's central
-idea — see [the lens](canon/the-lens.md). Contradictions between games are two witnesses,
-not a continuity error, and nobody is going to ask you to reconcile them.
+**Your version is supposed to look different from everyone else's.** A yokai
+story, a Nordic-runes story, an abduction in a Nevada trailer park and a
+corporate-horror FPS can all be correct and all be the same story, because every
+account of this reality is shaped by whoever had the experience. That is not a
+loophole, it is the central idea — see [the lens](canon/the-lens.md).
+Contradictions between games are two witnesses, not a continuity error, and
+nobody is going to ask you to reconcile them.
 
 ### With an AI assistant
 
-Paste `canon/spindle-world-guide.txt` into the assistant of your choice and say:
+Paste `canon/world-guide.md` into the assistant of your choice and say:
 
-> Design a game set in THE SPINDLE universe described above. Genre: *[yours]*.
-> Follow the rules section exactly: weave in 2–3 threads, genre-translated, never explained.
-
----
-
-## What can be built here
-
-Anything. This is not a text-adventure club.
-
-8-bit platformers · FPS · parser games · visual novels · brick-breakers · roguelikes ·
-board games · zines · a single illustration · a font · a soundtrack · a room in someone
-else's game
-
-The threads are deliberately medium-agnostic. A grey feather works in a 4-colour tile
-set, a 3D corridor, or a paragraph. So does the number nine. So does a door nobody opens.
+> Design a game set in the ALDERHOARD universe described above.
+> Genre: *[yours]*. Follow the rules exactly: weave in two or three threads,
+> genre-translated, never explained.
 
 ---
 
-## Contributing
+## ⚠ Pages still carrying older names
 
-Genuinely welcome, and the bar is low: **build a thing, then open a PR adding a row to
-`games/`.** You do not need permission to use any of the open canon, and you never need
-to ask before making something.
+Two files here predate the 2026 rename and still use the names this universe was
+published under earlier in the year. Their canon is unchanged and still good —
+the nine-point signature, the threads, the reserved list — but the labels on the
+front of them are being revised:
 
-Adding something *new* to canon is a higher bar, because canon has to stay small enough
-to hold in your head. See [CONTRIBUTING.md](CONTRIBUTING.md).
+- `canon/spindle-world-guide.txt`
+- `canon/grishnak.md`
 
----
-
-## The games so far
-
-Built by Scott Covert at [scovert.com](https://scovert.com) —
-[the text games](https://scovert.com/infocom.html) ·
-[the world's home page](https://scovert.com/spindle.html)
-
-See [games/README.md](games/README.md) for the list.
+They are left in place rather than quietly deleted, because anyone who already
+built against them should keep finding them where they were. If you are starting
+now, start with `canon/world-guide.md`.
 
 ---
 
-## Licence
+## The game this came out of
 
-See [LICENSE](LICENSE). Short version: take it, build on it, sell what you make.
-Attribution is appreciated and not demanded.
+**ALDERHOARD** — a valley you walk, where the things in it are doors: a wrecked
+ship in a wheat field, a cracked door in a cave wall, an arcade cabinet standing
+where no cabinet should be. Play it at **[alderhoard.com](https://alderhoard.com)**.
 
----
+Its source is not public. This universe is.
 
-*The light remembers what the world forgets.*
+*Curated by Scott Covert — scott@scovert.com — [scovert.com](https://scovert.com)*
