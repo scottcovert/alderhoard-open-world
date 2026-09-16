@@ -97,7 +97,7 @@ the world guide:
 
 Forgetting was already a physical force here. It simply never had a face.
 
-It also explains the **nine** thread, which the guide describes as recurring quietly and
+It also explains the **nine** mark, which the guide describes as recurring quietly and
 never being remarked upon — nine steps, gate 9, nine years, a clock stopped at nine.
 Azdarhad is why. Every nine already written into every game becomes foreshadowing, and
 nobody has to rewrite a line.
@@ -112,7 +112,7 @@ nobody has to rewrite a line.
 - **The Ward-Stone** is the seal on that sleep. *The light remembers what the world
   forgets* stops being atmosphere and reads as an operating manual.
 - **The Forgetting Light** — a lighthouse whose keeper is slowly forgetting the sea — is
-  the thread and the entity standing in the same room. Handle with care.
+  the mark and the entity standing in the same room. Handle with care.
 
 ### Spoiler, and it is a large one
 

@@ -1,5 +1,7 @@
 ============================================================
 SUPERSEDED - kept for anyone who built against it
+CURRENT VERSION: canon/eldseam-text-adventure-guide.txt
+The universe is ELDSEAM. The threads are THE FIVE MARKS.
 ============================================================
 This is the world guide as it stood in August 2026. Two things
 on it are no longer current and one of them is load-bearing:

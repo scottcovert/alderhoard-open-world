@@ -1,4 +1,6 @@
-# ALDERHOARD OPEN WORLD
+# ELDSEAM
+
+*The open universe ALDERHOARD is set in.*
 
 **A free-to-use shared universe for games. Any genre, any engine, any era.**
 
@@ -11,31 +13,44 @@ this universe, and nothing you would need to lift a finished game out of it.
 **Licence: CC0.** Public domain. Take it, change it, contradict it, sell what
 you make. You owe nobody anything, credit included.
 
+## What's what
+
+| Name | What it is | Where |
+|---|---|---|
+| **ELDSEAM** | the universe | **this repository** — the canon. If anything else disagrees with it, this is right. |
+| **ALDERHOARD** | the game this universe came out of | [alderhoard.com](https://alderhoard.com) — its source is not public |
+| **AZDARHAD** | the entity | [canon/azdarhad.md](canon/azdarhad.md) |
+| **THE FIVE MARKS** | the recurring signs you weave into a game | the text-adventure guide below |
+| *(no name)* | the structure that connects the worlds | deliberately unnamed — see below |
+
+**Retired names for this same universe:** THE SPINDLE, THE THREAD, GRISHNAK, ALDERHOARD OPEN WORLD. This repository was earlier called `the-spindle` and then `grishnak-game-open-universe`; GitHub redirects both. The public guide page lives at [alderhoard.com/eldseam.html](https://alderhoard.com/eldseam.html), and old scovert.com addresses redirect there.
+
 ---
 
 ## Start here
 
 | File | What it is |
 |---|---|
-| [canon/world-guide.md](canon/world-guide.md) | **Read this first.** What Alderhoard is, the register, the build law, the naming laws, the art, the cosmology, and the one structural idea worth stealing. |
+| [canon/world-guide.md](canon/world-guide.md) | **Read this first.** What this world is, the register, the build law, the naming laws, the art, the cosmology, and the one structural idea worth stealing. |
+| [canon/eldseam-text-adventure-guide.txt](canon/eldseam-text-adventure-guide.txt) | The guide for text-adventure builders: THE FIVE MARKS, the open canon, the RESERVED CANON names, and the terms. The same text as [alderhoard.com/eldseam.html](https://alderhoard.com/eldseam.html). |
 | [canon/azdarhad.md](canon/azdarhad.md) | **AZDARHAD** — a thing with no body, only an arrangement of nine points. Where it shows up, the three channels it reaches a player through, and the one hard rule. |
 | [canon/the-lens.md](canon/the-lens.md) | Why your version is allowed to look nothing like anyone else's. The most useful page here if you are building. |
 | [CONTRIBUTING.md](CONTRIBUTING.md) | How to list a game, or propose something new to canon. |
 | [games/](games/) | Games built in this universe. Add yours with a one-line pull request. |
-| [archive/](archive/) | The August 2026 world guide, superseded but kept — it holds the RESERVED CANON list. |
+| [archive/](archive/) | The August 2026 world guide, superseded by `canon/eldseam-text-adventure-guide.txt` and kept for anyone who built against it. |
 
 ---
 
 ## The whole method in five lines
 
 1. Read the world guide.
-2. Pick **two or three** threads. Never all of them.
+2. Pick **two or three** marks. Never all of them.
 3. **Genre-translate** them. A hooded pilgrim in a fantasy world is a drifting
    maintenance tech in a sci-fi one. Same coat, same limp, same unlit lantern.
 4. Drop them in as atmosphere. Never as plot, never as a dependency.
 5. **Never explain any of it.**
 
-Your game must stand completely on its own. The threads are seasoning. A player
+Your game must stand completely on its own. The marks are seasoning. A player
 who has never heard of any of this should finish your game without noticing
 anything was odd — and a player who has should finish it with the back of their
 neck prickling.
@@ -52,8 +67,8 @@ nobody is going to ask you to reconcile them.
 
 Paste `canon/world-guide.md` into the assistant of your choice and say:
 
-> Design a game set in the ALDERHOARD universe described above.
-> Genre: *[yours]*. Follow the rules exactly: weave in two or three threads,
+> Design a game set in the ELDSEAM universe described above.
+> Genre: *[yours]*. Follow the rules exactly: weave in two or three marks,
 > genre-translated, never explained.
 
 ---
@@ -78,15 +93,19 @@ experience**, so of course the name would differ from witness to witness. The
 absence is not a gap waiting to be filled. It is the most honest thing on this
 page.
 
-## ⚠ Two renames, if you built against the earlier pages
+## ⚠ Renames, if you built against the earlier pages
+
+- **The universe is ELDSEAM.** It has been THE SPINDLE, THE THREAD and ALDERHOARD OPEN WORLD. Same universe, same canon.
+- **The five threads are THE FIVE MARKS.** Same five, same rules.
 
 - **GRISHNAK is AZDARHAD.** Same being, same nine points, same rule, not one
   word of canon changed. `canon/grishnak.md` still resolves and points at the
   new page.
-- **`canon/spindle-world-guide.txt` has moved** to
-  [archive/world-guide-2026-08.txt](archive/world-guide-2026-08.txt) with a
-  banner explaining what on it is still current. It is kept rather than deleted
-  because it holds the RESERVED CANON list, and nothing else does.
+- **`canon/spindle-world-guide.txt` is now
+  [canon/eldseam-text-adventure-guide.txt](canon/eldseam-text-adventure-guide.txt).**
+  The August version is kept at
+  [archive/world-guide-2026-08.txt](archive/world-guide-2026-08.txt) for anyone who
+  built against it; the RESERVED CANON list is in the current guide too.
 
 ---
 

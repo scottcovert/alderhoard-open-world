@@ -33,7 +33,7 @@ Every addition taxes everyone who comes later. So the test is not "is this cool"
 Good additions tend to:
 
 - **Explain something already there** rather than adding a new thing to explain.
-  (AZDARHAD earns its place by giving the existing `nine` thread a reason, and by putting
+  (AZDARHAD earns its place by giving the existing `nine` mark a reason, and by putting
   a face on the Turning — neither of which required rewriting a word of the guide.)
 - **Work in every genre and every medium.** If it only works in fantasy, it is a good
   idea for your game, not a good addition to canon.
@@ -58,9 +58,9 @@ a judgement on the idea — a shared universe dies of bloat far more often than 
 These come from the world guide, and they are the whole reason this is one universe
 instead of a pile of references.
 
-1. **Every game must be fully winnable and self-contained on its own.** Threads add
+1. **Every game must be fully winnable and self-contained on its own.** Marks add
    flavour, never dependencies. Nobody should have to play another game to finish yours.
-2. **Pick two or three threads, not all of them.** Varying which ones is what keeps the
+2. **Pick two or three marks, not all of them.** Varying which ones is what keeps the
    universe from reading like a checklist.
 3. **Genre-translate everything.** A sci-fi game should never literally say "lamplighter."
    Use your own vocabulary and keep the wet-ash coat, the limp, the unlit lantern, the

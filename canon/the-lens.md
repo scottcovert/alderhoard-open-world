@@ -40,7 +40,7 @@ Seeding, not scattering.
 
 It is the reason for a rule the guide has always had:
 
-> *Genre-translate every thread. A sci-fi game should never literally say "lamplighter" or
+> *Genre-translate every mark. A sci-fi game should never literally say "lamplighter" or
 > "pilgrim" — use its own vocabulary while keeping the wet-ash coat, the limp, the unlit
 > lantern, the sea question.*
 

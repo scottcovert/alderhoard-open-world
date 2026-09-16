@@ -1,17 +1,24 @@
 <!-- Published copy of ALDERHOARD's own UNIVERSE.md. Section 5 (the layer
      contract) is replaced with a note; nothing else is changed. -->
 
-# ALDERHOARD — Universe Guide
+# ELDSEAM — Universe Guide
 
-*How to build a room in this world, and have it belong.*
+*The universe ALDERHOARD is set in. How to build a room in this world, and have it belong.*
 
 This is the document the README promises. It is written for someone who wants
-to add a game, a room, or a creature to Alderhoard — or to lift the whole thing
+to add a game, a room, or a creature to this world — or to lift the whole thing
 and make their own. Everything here is either a rule you should follow to make
 your work feel like it belongs, or a contract you must follow to make it run.
 
-**Licence.** Code is MIT. Art and sound are CC BY 4.0. Take it, change it,
-ship it, sell it. Credit ALDERHOARD and you are square with us.
+**Licence.** The world in this guide is CC0: public domain. Take it, change it,
+ship it, sell it — you owe nobody anything, credit included. ALDERHOARD's own
+code and art are not part of the world and are not public.
+
+**What's what.** **ELDSEAM** is the universe. **ALDERHOARD** is the game it came
+out of, at [alderhoard.com](https://alderhoard.com). **AZDARHAD** is the entity.
+The canon lives in one place, `github.com/scottcovert/alderhoard-open-world`,
+and if anything else disagrees with it, the repository is right. THE SPINDLE,
+THE THREAD and GRISHNAK are older names for this same universe and are retired.
 
 ---
 
@@ -193,6 +200,10 @@ character needs a word, let them use a local one and let the next game use a
 different one — every account of this reality is shaped by whoever had the
 experience, so of course the name would differ from witness to witness.
 
+**ELDSEAM is not that name.** ELDSEAM is what builders call the universe — this
+guide, the repository, the page at alderhoard.com. It is not a word a character
+says, and it does not name the structure inside the games.
+
 ### The builders who were here first
 
 Some places in the valley were built by something else, a long time before
@@ -225,6 +236,35 @@ something down there. What it was measuring is not stated, and the last
 reading is usually still on the panel.
 
 ---
+
+## 7b. ⭐ STORED, NOT BUILT — the fourth wall
+
+Scott, 2026-09-11, unprompted and filed on purpose:
+
+> *"one day I might decide to get all meta and fourth-wall-breaking and put
+> stuff in busy tarzan etc being blunt about them being unfinished subworlds -
+> straight from the screen avatar's mouth, or side characters or writing on the
+> wall."*
+
+⚠ **NOTHING IS BUILT AND NOTHING SHOULD BE.** This is on the page so it is not
+lost and so nobody "helpfully" starts it. It is recorded here rather than in a
+plan file because if it is ever taken up it changes what this universe IS, not
+what one cabinet does — and section 2's register would have to be re-read from
+the top, because a world that knows it is unfinished is a different register
+from one that does not.
+
+Three things worth knowing before anyone picks it up:
+
+- **It has to be a decision about the whole game, not one room.** A single
+  cabinet winking at the player reads as a bug in the tone. Every room does it
+  or none does.
+- **It is cheapest in the rooms that are actually thin**, which is the point —
+  BUSY TARZAN and the other unfinished subworlds. The joke only works where the
+  thing being admitted is true.
+- **Three voices are named and they are not equal.** The avatar speaking is the
+  biggest move and the hardest to take back; a side character saying it is
+  survivable; writing on a wall is almost free and could be tried first in one
+  room as a test.
 
 ## 8. If you build something
 

@@ -5,7 +5,7 @@ not limited to text games and never was.
 
 ## Parser games
 
-Playable at [scovert.com/infocom.html](https://scovert.com/infocom.html).
+Playable at [alderhoard.com/text-adventures.html](https://alderhoard.com/text-adventures.html).
 
 | Game | What it is | By |
 |---|---|---|
@@ -22,7 +22,7 @@ Playable at [scovert.com/infocom.html](https://scovert.com/infocom.html).
 | Game | What it is | By |
 |---|---|---|
 | **ALDERHOARD** | A valley you walk, and the things in it are doors: more than twenty games sharing one map, one save and one story. | Scott Covert |
-| **STONEBREAKER** | Brick-breaker, forty-seven walls, in Alderhoard's arcade. | Scott Covert |
+| **STONEBREAKER** | Brick-breaker, more than fifty walls, in Alderhoard's arcade. | Scott Covert |
 
 Both live at [alderhoard.com](https://alderhoard.com), along with twenty more cabinets.
 
