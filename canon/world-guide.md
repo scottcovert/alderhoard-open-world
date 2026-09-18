@@ -201,8 +201,38 @@ different one — every account of this reality is shaped by whoever had the
 experience, so of course the name would differ from witness to witness.
 
 **ELDSEAM is not that name.** ELDSEAM is what builders call the universe — this
-guide, the repository, the page at alderhoard.com. It is not a word a character
-says, and it does not name the structure inside the games.
+guide, the repository, the page at alderhoard.com. Since 2026-09-18 it is also
+a word people in the world use, for something else: their own body of belief
+about what is under everything (see the Witness Law below, point 4). It never
+names the structure inside the games, and it never names the thing.
+
+### ⭐ The Witness Law (Scott, 2026-09-18)
+
+The rule that lets every game add to the lore without any two ever agreeing.
+It is the world's oldest pattern, ours included: nobody who met the mystery has
+ever come back with the same description as anyone else.
+
+1. **There is one real thing under it all.** It is real, and it acts.
+2. **Nobody sees it. Everybody sees their own thing.** A people that meets it
+   comes back with the shape their own beliefs had ready. The shape is honest
+   witness. It is also never the thing.
+3. **No account ever matches another across a border or across an age.** Two
+   neighbouring countries do not agree on what it is, and neither is wrong
+   about what it saw. There is no verified, objective description anywhere, and
+   a game that supplies one has broken the world.
+4. **The Eldseam is the humans' word for their own interpretation** of deep
+   history and the world's structure: every people's witness, melted into one
+   conflicting mess. It is a body of belief, not a place and not the thing. It
+   contradicts itself because it is made of witnesses who saw different faces.
+5. **Belief splits.** The Eldseam has schools, sects and factions, and they
+   schism. A faction is a people who settled on one face. Two factions of one
+   country can disagree harder than two countries.
+
+What it asks of a builder: show one people's version and never the true one;
+let two characters in one town describe the same thing in incompatible terms
+and let nobody settle it; give any place its school of the Eldseam, with a
+plain local name. The faces are real objects (section 7 above). What varies is
+the seeing, not the world.
 
 ### The builders who were here first
 
