@@ -1,6 +1,6 @@
 ELDSEAM — A SHARED UNIVERSE FOR TEXT ADVENTURES
 World Guide v1.1 — September 2026
-Home: https://alderhoard.com/build-in-alderhoard.html
+Home: https://alderhoard.com/text-adventure-guide.html (the universe: https://alderhoard.com/build-in-alderhoard.html)
 The games: https://alderhoard.com/text-adventures.html
 The canon: https://github.com/scottcovert/alderhoard-open-world
 Curator: Scott Covert — scott@scovert.com

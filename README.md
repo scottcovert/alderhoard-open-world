@@ -23,7 +23,7 @@ you make. You owe nobody anything, credit included.
 | **THE FIVE MARKS** | the recurring signs you weave into a game | the text-adventure guide below |
 | *(no name)* | the structure that connects the worlds | deliberately unnamed — see below |
 
-**Retired names for this same universe:** THE SPINDLE, THE THREAD, GRISHNAK, ALDERHOARD OPEN WORLD. This repository was earlier called `the-spindle` and then `grishnak-game-open-universe`; GitHub redirects both. The public guide page lives at [alderhoard.com/eldseam.html](https://alderhoard.com/eldseam.html), and old scovert.com addresses redirect there.
+**Retired names for this same universe:** THE SPINDLE, THE THREAD, GRISHNAK, ALDERHOARD OPEN WORLD. This repository was earlier called `the-spindle` and then `grishnak-game-open-universe`; GitHub redirects both. The public page is [alderhoard.com/build-in-alderhoard.html](https://alderhoard.com/build-in-alderhoard.html) (the old alderhoard.com/eldseam.html and scovert.com addresses redirect there). Text-adventure builders have one extra page, [alderhoard.com/text-adventure-guide.html](https://alderhoard.com/text-adventure-guide.html): same universe, same rules.
 
 ---
 
@@ -32,7 +32,7 @@ you make. You owe nobody anything, credit included.
 | File | What it is |
 |---|---|
 | [canon/world-guide.md](canon/world-guide.md) | **Read this first.** What this world is, the register, the build law, the naming laws, the art, the cosmology, and the one structural idea worth stealing. |
-| [canon/eldseam-text-adventure-guide.txt](canon/eldseam-text-adventure-guide.txt) | The guide for text-adventure builders: THE FIVE MARKS, the open canon, the RESERVED CANON names, and the terms. The same text as [alderhoard.com/eldseam.html](https://alderhoard.com/eldseam.html). |
+| [canon/eldseam-text-adventure-guide.txt](canon/eldseam-text-adventure-guide.txt) | The guide for text-adventure builders: THE FIVE MARKS, the open canon, the RESERVED CANON names, and the terms. The same text as [alderhoard.com/text-adventure-guide.html](https://alderhoard.com/text-adventure-guide.html). Only for text games; everything else starts with the world guide above. |
 | [canon/azdarhad.md](canon/azdarhad.md) | **AZDARHAD** — a thing with no body, only an arrangement of nine points. Where it shows up, the three channels it reaches a player through, and the one hard rule. |
 | [canon/the-lens.md](canon/the-lens.md) | Why your version is allowed to look nothing like anyone else's. The most useful page here if you are building. |
 | [CONTRIBUTING.md](CONTRIBUTING.md) | How to list a game, or propose something new to canon. |
