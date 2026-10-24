@@ -1,6 +1,6 @@
 ELDSEAM — A SHARED UNIVERSE FOR TEXT ADVENTURES
 World Guide v1.1 — September 2026
-Home: https://alderhoard.com/eldseam.html
+Home: https://alderhoard.com/build-in-alderhoard.html
 The games: https://alderhoard.com/text-adventures.html
 The canon: https://github.com/scottcovert/alderhoard-open-world
 Curator: Scott Covert — scott@scovert.com
@@ -287,7 +287,7 @@ TERMS (plain English)
 - Everything in this guide is CC0: public domain. Use it in
   your own games, commercial or not. You owe nobody anything.
 - Credit is welcome, never required. If you want a line:
-  "Set in ELDSEAM — alderhoard.com/eldseam.html"
+  "Set in ELDSEAM — alderhoard.com/build-in-alderhoard.html"
 - Reserved canon appears here as NAMES ONLY. Their full designs
   are unpublished and are not part of this release. If you
   want one in your game, ask.
