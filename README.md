@@ -35,8 +35,6 @@ you make. You owe nobody anything, credit included.
 - **It shows up one way at a time.** The nine points are in a landscape, an arrangement, a mystery, an ecosystem, or in somebody's old records ... whatever. They might be a sound, a song, with the ninth one late or off pitch.
 - **Eldseam is also what people call their beliefs about it.** Schools, sects and factions, and they argue. Give a place its own school with a plain local name. Just like actual people do in our real world.
 - **Places you/we build should feel like something else built here first.** Sometimes for a body that wasn't human: ceilings might be too low, stairs might seem nonsensical, doorways wider than they are tall. Nobody explains them. <ins>So far this is only mostly true about my text adventure games, but it's also coming soon to new games</ins>. I know the text games are not going to be the draw.
-- **People came much later** and bolted their stuff onto the old places: cables stapled to ancient walls, warning signs in a language the building is older than. The oldest things are often instruments, still showing their last reading.
-- **The five marks** turn up across worlds: a limping traveller with an unlit lantern, one phrase, a grey feather, the number nine, a door that never opens. Use two or three, never all five.
 - **Your game has to stand on its own.** Someone who's never heard of any of this should be able to love and finish your game. It doesn't have to be "finished": it can be a public work in progress as long as players can achieve an objective or complete a level.
 - **A few names are sealed.** They're listed in the canon; ask before you use one. New places, creatures and factions can join the canon too.
 
