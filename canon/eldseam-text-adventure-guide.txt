@@ -54,18 +54,12 @@ You are invited to build your own text game inside it.
 HOW TO USE THIS GUIDE
 ------------------------------------------------------------
 
-WITH AN AI ASSISTANT: paste this entire file into your AI of
-choice and say something like — "Design a text adventure set
-in the ELDSEAM universe described above. Genre: [yours].
-Follow the rules section exactly: weave in 2-3 marks,
-genre-translated, never explained."
+Read the marks, pick 2-3, translate them into your game's
+genre and era, and drop them in as atmosphere. A hooded
+pilgrim in a fantasy world is a drifting maintenance tech in
+a sci-fi one. Same coat. Same limp.
 
-BY HAND: read the marks, pick 2-3, translate them into your
-game's genre and era, and drop them in as atmosphere. A
-hooded pilgrim in a fantasy world is a drifting maintenance
-tech in a sci-fi one. Same coat. Same limp.
-
-Either way, the rules at the bottom are what keep this one
+The rules at the bottom are what keep this one
 universe instead of a pile of references. They are short.
 Honor them.
 
